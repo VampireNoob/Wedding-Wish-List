@@ -1,38 +1,104 @@
-.App {
-  text-align: center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.wrapper {
+  display: flex;
+  justify-content: center;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.container {
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-radius: 40px;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.2), 0 16px 20px rgba(0, 0, 0, 0.2);
+  background-color: rgb(251,221,221, 0.9);
+  width: 400px;
+  min-height: 100vh;
+}
+h1 {
+  font-family: 'Bacasime Antique', serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #353247;
+  font-size: 30px;
+}
+h2 {
+  font-family: 'Borel', cursive;
+  color: #353247;
+  font-size: 30px;
+  text-shadow:
+  0 1px 2px rgb(0 0 0 / 30%),
+  0 0 4px rgb(0 0 0 / 10%),
+  0 2.8px 2.2px rgb(0 0 0 / 10%),
+  0 2.8px 22px rgb(0 0 0 / 30%);
+}
+h3 {
+  font-size: 28px;
+  font-family: 'Bacasime Antique', serif;
+  color: #353247;
+  font-weight: 600;
+}
+h4 {
+  font-family: 'Borel', cursive;
+  color: #353247;
+}
+p {
+  font-size: 15px;
+  font-family: 'Borel', cursive;
+  color: #353247;
+}
+hr {
+  border: 1px solid #ea6560;
+  width: 230px;
+  margin-top: 20px;
+}
+.containerOne {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+}
+.radius{
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.btnDelete {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+.deleteAll {
+  border: none;
+  color: #fff;
+  font-family: 'Bacasime Antique', serif;
+  background-color: #737081;
+  padding: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#slider {
+  height: 300px;
+}
+.containerTwo {
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btnSlider {
+  border:none;
+  padding: 5px;
+  background: transparent;
+  cursor: pointer;
 }
