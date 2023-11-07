@@ -1,23 +1,23 @@
-import hotel1 from './hotel.jpg';
-import hotel2 from './hotel 3.jpg';
-import hotel3 from './hotel4.jpg';
-import hotel4 from './hotel1.jpg';
-import spa1 from './spa.jpg';
-import spa2 from './spa2.jpg';
-import spa3 from './spa3.jpg';
-import spa4 from './spa1.jpg';
-import ballon1 from './ballon1.jpg';
-import ballon2 from './ballon.jpg';
-import ballon3 from './ballon3.jpg';
-import ballon4 from './ballon2.jpg';
-import kamera1 from './kamera.jpg';
-import kamera2 from './kamera2.jpg';
-import kamera3 from './kamera3.jpg';
-import kamera4 from './kamera1.jpg';
-import robot1 from './robot.jpg';
-import robot2 from './robot2.jpg';
-import robot3 from './robot3.jpg';
-import robot4 from './robot1.jpg';
+import hotel1 from './Pictures/hotel.jpg';
+import hotel2 from './Pictures/hotel 3.jpg';
+import hotel3 from './Pictures/hotel4.jpg';
+import hotel4 from './Pictures/hotel1.jpg';
+import spa1 from './Pictures/spa.jpg';
+import spa2 from './Pictures/spa2.jpg';
+import spa3 from './Pictures/spa3.jpg';
+import spa4 from './Pictures/spa1.jpg';
+import ballon1 from './Pictures/ballon1.jpg';
+import ballon2 from './Pictures/ballon.jpg'
+import ballon3 from './Pictures/ballon3.jpg';
+import ballon4 from './Pictures/ballon2.jpg';
+import kamera1 from './Pictures/kamera.jpg';
+import kamera2 from './Pictures/kamera2.jpg';
+import kamera3 from './Pictures/kamera3.jpg';
+import kamera4 from './Pictures/kamera1.jpg';
+import robot1 from './Pictures/robot.jpg';
+import robot2 from './Pictures/robot2.jpg';
+import robot3 from './Pictures/robot3.jpg';
+import robot4 from './Pictures/robot1.jpg';
 
 export const data = [
 
