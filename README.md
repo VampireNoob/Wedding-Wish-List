@@ -7,7 +7,7 @@
 
 ## This is a super simple Wishlist App built using React.js
 
-You can view a live demo of the project here: https://wedding-wish-list.netlify.app/
+You can view a live demo of the project here: https://wish-list-wedding.netlify.app/
 
 ## 🙂 Features:
 
