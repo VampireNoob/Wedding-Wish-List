@@ -3,7 +3,7 @@
     A simple Wishlist App built using <a href="https://reactjs.org/">React</a>
 </p>
 
-![wedding wishlist](https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/98d69e9e-2309-4f1c-b8c2-c38bfac38de9)
+![wedding wishlist](https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/d7f81994-1adb-4d05-a5f7-7f3f1737419f)
 
 ## This is a super simple Wishlist App built using React.js
 
@@ -31,9 +31,9 @@ const removeItem = (id) => {
 
 In this section you will find the programming languages ​​/ frameworcs / libraries that I used in this project.
 
-* <img src="https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/531eb2b2-5e31-4a04-a436-915ef57375ef" width="30">
-* <img src="https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/d9cb5e75-00bf-4344-9224-38d0e8534c39" width="30">
-* <img src="https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/d526e066-f37c-4e87-abe6-a9f274daade8" width="30">
+* <img src="https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/c43e4d15-62e4-4254-a673-c4021fd4cf25" width="30">
+* <img src="https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/e8f0b5ca-935a-45d1-b5c0-419f02ee83d4" width="30">
+* <img src="https://github.com/VampireNoob/Wedding-Wish-List/assets/128150500/d1885e0d-bc56-480b-b104-b181b8c82cbf" width="30">
 
 ## Contact
 
